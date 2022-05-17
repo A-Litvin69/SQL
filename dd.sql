@@ -1,3 +1,4 @@
+
 show databases;
 create database sallers;
 use sallers;
